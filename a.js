@@ -1,3 +1,6 @@
+
+// Arguments array like of object
+
 function add(a, b) {
     console.log(a, b);
     console.log(arguments);
